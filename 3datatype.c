@@ -19,7 +19,7 @@ int b=10;
 float c=10.23;
 double d=10.2345;
 
-prinf("%c",a);  //Use %c (format specifier) to print character(char).
+printf("%c",a);  //Use %c (format specifier) to print character(char).
 printf("%d",b);  //Use %d (format specifier) to print Integer(int).
 printf("%f",c);  //Use %f (format specifier) to print float.
 printf("%lf",d);  //Use %lf (format specifier) to print double.
